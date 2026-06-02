@@ -1,4 +1,4 @@
-# 🍄 Jogo Mario — Trabalho da Faculdade
+# 🍄 Jogo do Super Mario — Trabalho da Faculdade
 
 ## 📖 Sobre o Projeto
 
